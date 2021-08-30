@@ -1,0 +1,29 @@
+.divydivy{
+    width: 350px;
+    height:300px;
+    box-shadow: 2px 2px 200px crimson;
+    border-width: 3px;
+}
+
+body{
+    background-image: linear-gradient(to bottom right, cornflowerblue, lightpink)
+}
+
+.pooglemagoogle{
+    border-width: 3px;
+    border-color: navy;
+    border-style: dotted;
+    width: 220px;
+    margin-left: 815px;
+}
+
+.footer{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    text-align: left;
+    padding: 0px;
+    background-color: crimson;
+    color: white;
+    line-height: 0.3;
+}
